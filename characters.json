@@ -10,8 +10,8 @@
                     "Hi I am message-scenario-1-message-3 of character 1"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             },
             "messageScenario2": {
@@ -21,8 +21,8 @@
                     "Hi I am message-scenario-2-message-3 of character 1"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             },
             "messageScenario3": {
@@ -32,8 +32,8 @@
                     "Hi I am message-scenario-3-message-3 of character 1"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             }
         }
@@ -49,8 +49,8 @@
                     "Hi I am message-scenario-1-message-3 of character 2"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             },
             "messageScenario2": {
@@ -60,8 +60,8 @@
                     "Hi I am message-scenario-2-message-3 of character 2"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             },
             "messageScenario3": {
@@ -71,8 +71,8 @@
                     "Hi I am message-scenario-3-message-3 of character 2"
                 ],
                 "coords": {
-                    "longitude": "51.917221",
-                    "latitude": "4.484050"
+                    "longitude": 51.917221,
+                    "latitude": 4.484050
                 }
             }
         }
