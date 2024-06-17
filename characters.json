@@ -2,29 +2,79 @@
     "character1": {
         "name": "character-1-name",
         "age": "character-1-age",
-        "messageScenario1": [
-            "Hi I am message-scenario-1-message-1 of character 1",
-            "Hi I am message-scenario-1-message-2 of character 1",
-            "Hi I am message-scenario-1-message-3 of character 1"
-        ],
-        "messageScenario2": [
-            "Hi I am message-scenario-2-message-1 of character 1",
-            "Hi I am message-scenario-2-message-2 of character 1",
-            "Hi I am message-scenario-2-message-3 of character 1"
-        ]
+        "messages": {
+            "messageScenario1": {
+                "message": [
+                    "Hi I am message-scenario-1-message-1 of character 1",
+                    "Hi I am message-scenario-1-message-2 of character 1",
+                    "Hi I am message-scenario-1-message-3 of character 1"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            },
+            "messageScenario2": {
+                "message": [
+                    "Hi I am message-scenario-2-message-1 of character 1",
+                    "Hi I am message-scenario-2-message-2 of character 1",
+                    "Hi I am message-scenario-2-message-3 of character 1"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            },
+            "messageScenario3": {
+                "message": [
+                    "Hi I am message-scenario-3-message-1 of character 1",
+                    "Hi I am message-scenario-3-message-2 of character 1",
+                    "Hi I am message-scenario-3-message-3 of character 1"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            }
+        }
     },
     "character2": {
         "name": "character-2-name",
         "age": "character-2-age",
-        "messageScenario1": [
-            "Hi I am message-scenario-1-message-1 of character 2",
-            "Hi I am message-scenario-1-message-2 of character 2",
-            "Hi I am message-scenario-1-message-3 of character 2"
-        ],
-        "messageScenario2": [
-            "Hi I am message-scenario-2-message-1 of character 2",
-            "Hi I am message-scenario-2-message-2 of character 2",
-            "Hi I am message-scenario-2-message-3 of character 2"
-        ]
+        "messages": {
+            "messageScenario1": {
+                "message": [
+                    "Hi I am message-scenario-1-message-1 of character 2",
+                    "Hi I am message-scenario-1-message-2 of character 2",
+                    "Hi I am message-scenario-1-message-3 of character 2"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            },
+            "messageScenario2": {
+                "message": [
+                    "Hi I am message-scenario-2-message-1 of character 2",
+                    "Hi I am message-scenario-2-message-2 of character 2",
+                    "Hi I am message-scenario-2-message-3 of character 2"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            },
+            "messageScenario3": {
+                "message": [
+                    "Hi I am message-scenario-3-message-1 of character 2",
+                    "Hi I am message-scenario-3-message-2 of character 2",
+                    "Hi I am message-scenario-3-message-3 of character 2"
+                ],
+                "coords": {
+                    "longitude": "51.917221",
+                    "latitude": "4.484050"
+                }
+            }
+        }
     }
 }
